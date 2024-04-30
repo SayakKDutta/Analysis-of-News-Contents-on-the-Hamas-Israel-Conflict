@@ -1,4 +1,4 @@
-##Analysis of News Contents on the Hamas-Israel Conflict
+Analysis of News Contents on the Hamas-Israel Conflict
 
 Overview
 This repository contains the analysis of news contents related to the armed conflict between Hamas and Israel, as reported by five different news agencies: Business Insider, TIME, Telegraph, Statesman, and BBC. The analysis focuses on one month of data to observe changes in keywords used in news articles over time, utilizing natural language processing (NLP) techniques.
