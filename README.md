@@ -8,7 +8,7 @@ The news articles were pulled from the respective websites of the selected news 
 
 Future Work: This data can be pulled by API for the timeframe.
 
-### NOTE: To run the code one needs to copy the websites of the respective news (found in the notebook output) and include them in the respective dictionary found in the code and then on as it is. Or, needs to change the page number of the respective news websites by visiting the websites and manually checking the dates. Another alternative is using NEWS_API to collect data. 
+### NOTE: To run the code one needs to copy the websites of the respective news (found in the notebook output) and include them in the respective dictionary found in the code and then on as it is. Or, needs to change the page number of the respective news websites by visiting the websites and manually checking the dates. Another alternative is using [NEWS_API][(https://newsapi.ai/?gad_source=1&gclid=Cj0KCQjwltKxBhDMARIsAG8KnqVeZGr-oShFfKC19E6pgA_9U1Q2KgvkUzdJjBLK7UYpqdeQpleFY40aAs6fEALw_wcB)] to collect data. 
 
 ## NLP Analysis
 ### Keyword Extraction
