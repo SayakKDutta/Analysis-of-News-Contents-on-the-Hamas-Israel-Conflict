@@ -6,7 +6,7 @@ This repository contains the analysis of news contents related to the armed conf
 ## Data Collection
 The news articles were pulled from the respective websites of the selected news agencies for the duration of one month. Only articles directly related to the Hamas-Israel conflict were included in the analysis. This was done manually by checking out how many pages will contain the data for one month and iterating over those pages for the websites. The data collected for month 17th Dec to 17th Jan (approx). 
 
-Future Work: This data can be pulled by API
+Future Work: This data can be pulled by API for the timeframe.
 
 ## NLP Analysis
 ### Keyword Extraction
